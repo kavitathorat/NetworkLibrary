@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.9.1)
+  - NetworkLibrary (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - NetworkLibrary (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  NetworkLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  NetworkLibrary: 488946da71216aa423097b109f6d74ac5d925078
+
+PODFILE CHECKSUM: bac7c4e0ac4ab3eaf79a29dcca5258e2994b72d6
+
+COCOAPODS: 1.9.3

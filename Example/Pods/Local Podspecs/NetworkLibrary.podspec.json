@@ -1,0 +1,27 @@
+{
+  "name": "NetworkLibrary",
+  "version": "0.1.0",
+  "summary": "NetworkLibrary to handle API calls",
+  "description": "TODO: Add long description of the pod here.\nNetworkLibrary to handle API calls",
+  "homepage": "https://github.com/kavitathorat/NetworkLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kavitathorat": "kavita.thorat@wwindia.com"
+  },
+  "source": {
+    "git": "https://github.com/kavitathorat/NetworkLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "NetworkLibrary/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

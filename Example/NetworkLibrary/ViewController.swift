@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import NetworkLibrary
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        APIHelper.callPostWebservice(headers: [:]) { (success) in
+            
+        }
         // Do any additional setup after loading the view, typically from a nib.
     }
 
