@@ -26,7 +26,7 @@ NetworkLibrary to handle API calls
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'kavitathorat' => 'kavita.thorat@wwindia.com' }
-  s.source           = { :git => 'https://github.com/kavitathorat/NetworkLibrary.git',:branch => 'mastar', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/kavitathorat/NetworkLibrary.git',:tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
